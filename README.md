@@ -1,2 +1,1 @@
-# Alice-Madness-Returns-PTBR-
-Este pacote contém Alice Madness Returns todos os conteúdos adicionais (DLCs) as roupas, armas e American McGee's Alice (ambos traduzidos em PORTUGUÊS BRASILEIRO). Além disso, os contos originais escrito por Lewis Caroll de Alice no País das Maravilhas e Alice Através do Espelho, o Artbook de Alice Madness Returns e ícones para adicionar no atalho da área de trabalho ou na Steam. Foram feitas algumas correções para tornar a experiência do jogador mais agradável, como o aumento de quadros por segundo e a correção do bug do Guarda-chuva no primeiro capítulo.
+
